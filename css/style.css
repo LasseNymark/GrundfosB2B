@@ -77,7 +77,7 @@ section h2{
     width: 15%;
     position: absolute;
     top: 110px;
-    left: 45%;
+    left: 42.5%;
 }
 
 /* - FORM - */
@@ -188,7 +188,7 @@ input.invalid {
 
 section h3{
     color: var(--txt);
-    font-size: 90% ;
+    font-size: 100% ;
     text-align: center;
     padding-top: 10px;
     margin: 10px 0;
